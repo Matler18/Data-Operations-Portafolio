@@ -1,0 +1,6 @@
+SKU,Descripcion,Stock_Actual,Costo_Unidad,Fecha_Entrada_Almacen
+PROD-001,Filtro Aceite G4,150,25000,2025-11-01
+PROD-002,Bomba de Agua R-5,80,150000,2025-09-15
+PROD-003,Neumático 17",25,450000,2025-10-20
+PROD-004,Válvula Reguladora,320,12000,2025-07-28
+PROD-005,Sensor de Presión,90,35000,2025-11-20
